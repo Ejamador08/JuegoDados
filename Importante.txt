@@ -1,0 +1,3 @@
+Este poryecto ha sido creado para la participación
+de multiples usuarios en un juego de mesa
+conocido como el "Juego de Pocho o de Dados".
